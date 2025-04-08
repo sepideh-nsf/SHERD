@@ -1,5 +1,5 @@
 # SHERD
-This repository is for the paper titled "Robust Subgraph Learning by Monitoring Early Training Representations" by Sepideh Neshatfar and Salimeh Yasaei Sekeh.
+This repository is for the paper titled "Robust Subgraph Learning by Monitoring Early Training Representations" by Sepideh Neshatfar and Salimeh Yasaei Sekeh, published in IEEE IDS 2025.
 
 ## Shells to Run
 ### Train
